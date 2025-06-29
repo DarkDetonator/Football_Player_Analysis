@@ -28,4 +28,3 @@ Steps:
 The journey of the input video and different functionalities are illustrated in the workflow diagram below.
 
 ![workflow diagram](![workflow diagram](https://github.com/user-attachments/assets/353f7623-dce3-4825-b8fe-3a853bc1cd52)
-)
