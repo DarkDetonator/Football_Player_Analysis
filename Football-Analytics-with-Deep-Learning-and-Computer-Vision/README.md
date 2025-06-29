@@ -11,7 +11,7 @@
 ## Installation & How to use?
 
 Steps:
-1. Clone the repository using the command `git clone https://github.com/Hmzbo/Football-Analytics-with-Deep-Learning-and-Computer-Vision.git `
+1. Clone the repository using the command `git clone https://github.com/DarkDetonator/Football_Player_Analysis.git `
 2. Install the required libraries listed in the file `requirement.txt`, you can use the command `conda env create -f environment.yml` to create the conda env I use but make sure the pytorch installation is compatible with your machine.
 3. Use the command `steamlit run main.py` to start the application.
     
@@ -27,4 +27,5 @@ Steps:
 
 The journey of the input video and different functionalities are illustrated in the workflow diagram below.
 
-![workflow diagram](https://github.com/Hmzbo/Football-Analytics-with-Deep-Learning-and-Computer-Vision/assets/62519374/8a934460-5f7f-4170-a2b2-d89c77fce2fe)
+![workflow diagram](![workflow diagram](https://github.com/user-attachments/assets/353f7623-dce3-4825-b8fe-3a853bc1cd52)
+)
