@@ -1,0 +1,15 @@
+video_path: "D:\\AI platoform fo rvisual cognative impared\\New folder\\Football-Analytics-with-Deep-Learning-and-Computer-Vision\\test-vid_m2GKv17c.mp4"
+tactical_map_path: "D:\\AI platoform fo rvisual cognative impared\\New folder\\Football-Analytics-with-Deep-Learning-and-Computer-Vision\\tactical map.jpg"
+keypoints_json: "D:\\AI platoform fo rvisual cognative impared\\New folder\\Football-Analytics-with-Deep-Learning-and-Computer-Vision\\pitch map labels position.json"
+player_model_path: "D:\\AI platoform fo rvisual cognative impared\\New folder\\Football-Analytics-with-Deep-Learning-and-Computer-Vision\\models\\Yolo8L Players\\weights\\best.pt"
+keypoints_model_path: "D:\\AI platoform fo rvisual cognative impared\\New folder\\Football-Analytics-with-Deep-Learning-and-Computer-Vision\\models\\Yolo8M Field Keypoints\\weights\\best.pt"
+player_conf_thresh: 0.60
+keypoints_conf_thresh: 0.70
+keypoints_displacement_tol: 10
+ball_track_dist_thresh: 100
+nbr_frames_no_ball_thresh: 30
+max_track_length: 35
+team_colors:
+  Chelsea: [[41, 71, 138], [220, 98, 88]]
+  Man City: [[144, 200, 255], [188, 199, 3]]
+output_video_path: "output_video.mp4"

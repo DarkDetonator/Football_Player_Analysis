@@ -1,0 +1,12 @@
+torch
+ultralytics
+opencv-python
+pillow
+scikit-image
+scikit-learn
+streamlit
+seaborn
+scipy
+moviepy
+tqdm
+pandas
